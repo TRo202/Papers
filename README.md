@@ -1,7 +1,7 @@
 # Papers
 Some notes about papers
 
-## Robotics
+## Robotics (Legged Locomotion)
 [Feedback Control For Cassie with Deep Reinforcement Learning](https://rightful-jodhpur-42d.notion.site/Feedback-Control-For-Cassie-with-Deep-Reinforcement-Learning-b9f9c22a16b84fe4908b5d37a23f91c6)(Oregon State Uni.)   
 [Learning Agile and Dynamic Motor Skills for Legged Robots](https://rightful-jodhpur-42d.notion.site/Learning-Agile-and-Dynamic-Motor-Skills-for-Legged-Robots-cfdb19e3cc5147068c7457a916bcb2cc)(ETH)   
 [Learning Memory-Based Control for Human-Scale Bipedal Locomotion](https://rightful-jodhpur-42d.notion.site/Learning-Memory-Based-Control-for-Human-Scale-Bipedal-Locomotion-2d1b4c19ed5545eb8f76539279ddd543)(Oregon State Uni.)   
